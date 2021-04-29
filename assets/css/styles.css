@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: rgb(243, 253, 248);
+}
+
+.content{
+    position: relative;
+    margin: 100px auto;
+    width: 60%;
+    height: 300px;
+    background-color: rgb(243, 253, 248);
+    text-align: center;
+}
+.res{
+    width: 100%
+
+}
+
+#resposta{
+    text-align: center;
+    height: 40px;
+    
+}
+
+.enviar:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.atualizar:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-size: 40px;
+}
+
